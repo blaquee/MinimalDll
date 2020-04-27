@@ -1,5 +1,5 @@
 #pragma once
 
-#define WIN32_LEAN_AND_MEAN             // Exclude rarely-used stuff from Windows headers
-// Windows Header Files
-#include <windows.h>
+#define PHNT_VERSION PHNT_WIN8
+#include <phnt_windows.h>
+#include <phnt.h>
