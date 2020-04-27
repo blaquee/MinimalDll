@@ -8,4 +8,5 @@ option in project settings.
 
 I may add some example usage of the Native API's to do simple tasks, but for now I'll leave this project as is to allow the user to be free to extend.
 
-
+Screenshot of DLL Dependency from depends:
+![alt screenshot](dependency.png "Dependency")
