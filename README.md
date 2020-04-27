@@ -1,4 +1,4 @@
-# Minimal Dependency DLL Projec Template
+# Minimal Dependency DLL Project Template
 This is just a simple DLL Visual Studio project that has only a dependency on ntdll. It is an early injection DLL template that allows you to 
 extend as you see fit.
 
